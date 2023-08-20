@@ -9,6 +9,7 @@
 1.安装证书GMCert_RSACA01并添加到受信任
 
 证书服务端、客户端均需安装（证书在程序目录下）
+`GMCert_RSACA01.cer` `GMCert_RSACA01.cert` 为同一证书，windows 安装 cer 后缀即可
 
 
 
